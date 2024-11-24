@@ -60,12 +60,6 @@ cd temple-run-gesture-control
 
 
 
-## **Screenshots**
-![Gesture Control Demo](https://drive.google.com/file/d/1H_060ZlF58WTAVzOw4Ux_x1IgtCJBvlc/view?usp=drive_link/800x400)  
-*Figure: Real-time gesture detection and action mapping.*
-
-
-
 ## **Future Enhancements**
 - Add more gestures for additional actions.
 - Support for multiple games.
